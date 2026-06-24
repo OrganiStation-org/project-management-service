@@ -1,4 +1,4 @@
-name: Project Management Service CI Pipeline
+name: Project Management Service CI Pipeline.
 
 on:
   push:
